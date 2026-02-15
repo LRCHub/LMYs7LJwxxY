@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あぽかりぷすくりえいしょん",
+  "base_artist": "いよわ",
+  "createdAt": "2026-02-15T16:07:08.622521Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あぽかりぷすくりえいしょん",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_あぽかりぷすくりえいしょん_いよわ.txt"
+    }
+  ]
+}
